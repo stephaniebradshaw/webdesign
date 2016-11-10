@@ -1,0 +1,117 @@
+header {
+	width: 40%;
+	height: 100px;
+	background-color: lightpink;
+	text-align: center;
+	margin: auto;
+	background-image: url('../images/tumblr_nuw21qx9HJ1tqou9go1_500.gif');
+	background-size: 200px 600px;
+
+}
+
+section {
+	width: 90%;
+	margin: auto;
+}
+
+img {width: 100%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+
+h1 {
+	color: green;
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Shrikhand', cursive;
+	font-family: futura;
+    font-style: italic;
+ }
+
+
+h2 {
+	color: green;
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+}
+}
+.abbi { width: 300px;
+	height: 400px;
+	background-color: red;
+	float: left;
+	margin: 10px;
+}
+
+
+nav {
+	width: 15%;
+	height: 100px;
+	background-color: green;
+	margin: left;
+	font-size: 40px;
+	background-image: url('../images/tumblr_nuw21qx9HJ1tqou9go1_500.gif');
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+}
+
+.intro {
+	width: 45%;
+	height: 500px;
+	color: white;
+	font-size: 30px;
+	background-color: red;
+	text-align: center;
+	margin: auto;
+	background-image: url('../images/best.gif');
+	background-size: 1000px 650px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+h3 {
+	color: green;
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+}
+
+h4 {
+	color: green;
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+}
+
+h5 {
+	width: 50%;
+	height: 1000px;
+	background-color: yellow;
+	color: darkblue;
+	font-size: 20px;
+	text-align: center;
+	margin: auto;
+	background-size: 900px 1000px;
+	background-image: url('../images/tumblr_static_tumblr_static_2n5vih3ol6ckcgscwcc0s8w0c_640.gif');
+}
+.gaming {
+	width: 50%;
+	height: 500px;
+	color: white;
+	font-size: 30px;
+	background-color: blue;
+	text-align: center;
+	margin: auto;
+	background-image: url('../images/animated-gifs-of-fighting-game-backgrounds-19.gif');
+	background-size: 1000px 650px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
